@@ -1,0 +1,5 @@
+# NUEDC_programme
+
+2023.08.01
+
+FUCK OFF NUEDC
