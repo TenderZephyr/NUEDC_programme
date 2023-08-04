@@ -3,16 +3,16 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\桌面\\NUEDC_programme\\CORE",
-                "d:\\桌面\\NUEDC_programme\\USER",
-                "d:\\桌面\\NUEDC_programme\\FWLIB\\inc",
-                "d:\\桌面\\NUEDC_programme\\SYSTEM",
-                "d:\\桌面\\NUEDC_programme\\HARDWARE",
-                "d:\\桌面\\NUEDC_programme\\SYSTEM\\delay",
-                "d:\\桌面\\NUEDC_programme\\HARDWARE\\OLED",
-                "D:\\Keil\\Keil_v5\\ARM\\ARMCC\\include",
-                "D:\\Keil\\Keil_v5\\ARM\\ARMCC\\include\\rw",
-                "d:\\桌面\\NUEDC_programme\\FWLIB\\src"
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\CORE",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\USER",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\FWLIB\\inc",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\SYSTEM",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\HARDWARE",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\SYSTEM\\delay",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\HARDWARE\\OLED",
+                "D:\\Keil 5\\ARM\\ARMCC\\include",
+                "D:\\Keil 5\\ARM\\ARMCC\\include\\rw",
+                "c:\\Users\\谭文宇\\Desktop\\国赛\\NUEDC_programme\\FWLIB\\src"
             ],
             "defines": [
                 "STM32F40_41xxx",
